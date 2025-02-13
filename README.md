@@ -160,24 +160,22 @@ I'm passionate about optimizing processes and automating everything that's possi
 
 ### 📊 Statistics
 
-<table>
-  <tr>
-    <td>
-      <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=gabrielviegas&show_icons=true&theme=radical"
-      />
-    </td>
-    <td>
-      <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielviegas&theme=radical&layout=compact&custom_title=Technologies&langs_count=9" 
-      />
-    </td>
-  </tr>
-</table>
+<div style="display: flex;">
+  <div style="flex">
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      style="padding-right: 10px;" 
+      src="https://github-readme-stats.vercel.app/api?username=gabrielviegas&show_icons=true&theme=radical&hide_border=true"
+    />
+  </div>
+  <div style="flex">
+    <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielviegas&theme=radical&layout=compact&custom_title=Technologies&langs_count=9&hide_border=true" 
+    />
+  </div>
+</div>
