@@ -161,16 +161,16 @@ I'm passionate about optimizing processes and automating everything that's possi
 ### 📊 Statistics
 
 <div style="display: flex;">
-  <div style="flex">
+  <div style="flex: 1;">
     <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=gabrielviegas&show_icons=true&theme=radical&hide_border=true"
+      src="https://github-readme-stats.vercel.app/api?username=gabrielviegas&show_icons=true&theme=radical&hide_border=true" 
     />
   </div>
-  <div style="flex">
+  <div style="flex: 1;">
     <img 
       align="left" 
       alt="GitHub Stats" 
