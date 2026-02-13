@@ -1,6 +1,6 @@
 Hey there 👋
 
-I'm Gabriel Viegas. I’m a DevOps enthusiast dedicated to building resilient infrastructure and making automation a priority.
+I'm Gabriel Viegas a DevOps enthusiast dedicated to building resilient infrastructure and making automation a priority.
 
 What first drew me to DevOps was the ability to eliminate repetitive manual tasks. I truly enjoy the efficiency gains that come from replacing manual toil with smart, automated workflows.
 
